@@ -15,7 +15,7 @@ Content-Type: application/json
 
 ###
 
-PUT http://localhost:3000/9ba445e0-7394-49bc-b052-ff2b41b59dff
+PUT http://localhost:3000/f097d414-4cca-40df-8b01-32c616b2dfc9
 Content-Type: application/json
 
 {
@@ -25,4 +25,4 @@ Content-Type: application/json
 
 
 ###
-DELETE http://localhost:3000/c
+DELETE http://localhost:3000/9ba445e0-7394-49bc-b052-ff2b41b59dff
