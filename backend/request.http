@@ -2,27 +2,28 @@ GET http://localhost:3000
 
 ###
 
-GET http://localhost:3000/9ba445e0-7394-49bc-b052-ff2b41b59dff
+GET http://localhost:3000/62f42859c7577741bc8868bc
 
 ###
 POST http://localhost:3000
 Content-Type: application/json
 
 {
-"title": "estudar Angular",
-"description": "Criar projeto simples com angular"
+"title": "TESTANDO",
+"description": "Criar projeto simples com TESTANDO"
+
 }
 
 ###
 
-PUT http://localhost:3000/f097d414-4cca-40df-8b01-32c616b2dfc9
+PUT http://localhost:3000/62f434271db28ef7a76b72cb
 Content-Type: application/json
 
 {
-"title": "estudar Angular",
-"description": "Criar projeto simples com angular"
+
+"description": "Criar projeto simples com NestJS"
 }
 
 
 ###
-DELETE http://localhost:3000/9ba445e0-7394-49bc-b052-ff2b41b59dff
+DELETE http://localhost:3000/62f435ffb3c54e25df8cadeb
